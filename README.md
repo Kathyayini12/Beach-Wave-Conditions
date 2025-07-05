@@ -33,10 +33,10 @@ s3://website-bucket-c153f9bo/index.html
 **Step 4:** Enable Static Website Hosting
 **S3 buckets are not websites by default — they're just storage.
 Enabling static website hosting does 3 things:**
-**Function -->	Reason
-Allows S3 to act like a web server -->	So you can serve .html, .css, .js like a real site
-Lets you define index.html -->	So root URL knows what to show
-Lets you define error.html -->	So 404 pages are user-friendly**
+**"Function -->	Reason"
+Allows S3 to act like a web server -->	So you can serve .html, .css, .js like a real site.
+Lets you define index.html -->	So root URL knows what to show.
+Lets you define error.html -->	So 404 pages are user-friendly.**
 
 In AWS Console → Go to the bucket
 Click on "Properties"
